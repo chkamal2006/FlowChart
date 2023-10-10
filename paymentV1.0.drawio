@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T09:03:46.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_Rw3fprevlBrlS24yo2R" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T09:07:24.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H6DgsIAeN-wWenjfKWUm" version="22.0.4" type="github">
   <diagram name="Page-1" id="Od0HrYcrxd3IYDJddU-p">
     <mxGraphModel dx="1781" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
         <mxCell id="_5tm6AC8fSd4CqpAaEgZ-81" value="Success&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-250" y="519" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-83" value="Success&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-83" value="Success / fail&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="539" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_5tm6AC8fSd4CqpAaEgZ-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -261,6 +261,50 @@
               <mxPoint x="-30" y="570" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5tm6AC8fSd4CqpAaEgZ-92" target="_5tm6AC8fSd4CqpAaEgZ-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="440" />
+              <mxPoint x="-205" y="440" />
+              <mxPoint x="-205" y="439" />
+              <mxPoint x="-110" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-92" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.404;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_5tm6AC8fSd4CqpAaEgZ-68" target="_5tm6AC8fSd4CqpAaEgZ-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-94" value="Transaction failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-96" value="Final transaction failed is sent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-97" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/monitoring_logging.svg;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="660" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-98" value="Logging &amp;amp; monitoring" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_5tm6AC8fSd4CqpAaEgZ-97" target="_5tm6AC8fSd4CqpAaEgZ-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.154;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_5tm6AC8fSd4CqpAaEgZ-97" target="_5tm6AC8fSd4CqpAaEgZ-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="741" />
+              <mxPoint x="-320" y="741" />
+              <mxPoint x="-320" y="770" />
+              <mxPoint x="-191" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5tm6AC8fSd4CqpAaEgZ-101" value="Performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
