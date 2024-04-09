@@ -1,9 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T07:33:14.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.2" etag="sxXOy4hSgcV4XhjKeQ1s" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T07:56:03.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="adzojafiVweigLkqOT7x" version="24.2.2" type="github">
   <diagram name="Page-1" id="9jYQxwW4vStHBf3Y_fgB">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qjyuimKGJi_3rEOVMwHf-1" target="qjyuimKGJi_3rEOVMwHf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qjyuimKGJi_3rEOVMwHf-1" target="qjyuimKGJi_3rEOVMwHf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-1" value="Head of Systems Engineering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-2" value="Other Areas systems &amp;amp; Engineering team" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qjyuimKGJi_3rEOVMwHf-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qjyuimKGJi_3rEOVMwHf-4" target="qjyuimKGJi_3rEOVMwHf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qjyuimKGJi_3rEOVMwHf-4" target="qjyuimKGJi_3rEOVMwHf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-4" value="&lt;b&gt;Systems Engineering Manager&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;Kamal Sastry&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Total Resources(14)&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qjyuimKGJi_3rEOVMwHf-6" target="qjyuimKGJi_3rEOVMwHf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qjyuimKGJi_3rEOVMwHf-6" target="qjyuimKGJi_3rEOVMwHf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-6" value="Product Engineering Manager" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-9" value="Other Product teams &amp;amp; Engineering Managers" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-13" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Systems Engineers (9)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 * Sr. Systems Engineer (Operation Lead / Sweden)&lt;/span&gt;&lt;/div&gt;2 * Systems Engineer ( Poland)&lt;div&gt;2 * Systems Engineer (India)&lt;/div&gt;&lt;div&gt;4 * Systems Engineer (Sweden)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Database Engineers (2)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;1 * Database Specialist (Sweden)&lt;div&gt;1 * Sr. Database Engineer ( Denmark)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qjyuimKGJi_3rEOVMwHf-16" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Performance Team (1)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1* IT Architect (India)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Change Coordinator (2)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1*Change Manager (Sweden)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1*Change Coordinator(India)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="385" width="180" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
