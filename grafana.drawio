@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T12:59:43.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1vX08FrSaWVBbtiDXlgL" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T08:11:43.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YVTAaMH_HgGhVkzUuBJJ" version="24.6.4" type="github">
   <diagram name="Page-1" id="tnofgGwdvgnEdEMGM9DY">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxPoint x="690" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zCWjs_bB_M2k3wwc2RX4-4" value="Technical Debt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zCWjs_bB_M2k3wwc2RX4-4" value="Technical Debt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zCWjs_bB_M2k3wwc2RX4-5" value="Encryption, logs exposure to outisde, security vulnerability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -52,10 +52,10 @@
         <mxCell id="zCWjs_bB_M2k3wwc2RX4-7" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zCWjs_bB_M2k3wwc2RX4-8" value="Code review" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zCWjs_bB_M2k3wwc2RX4-8" value="Code review" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zCWjs_bB_M2k3wwc2RX4-14" value="Service &amp;amp; logging&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zCWjs_bB_M2k3wwc2RX4-14" value="Service &amp;amp; logging&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="660" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zCWjs_bB_M2k3wwc2RX4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zCWjs_bB_M2k3wwc2RX4-15" target="zCWjs_bB_M2k3wwc2RX4-1">
