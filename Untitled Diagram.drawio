@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T11:47:01.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1F1KYio_tzqv4Id4nEOS" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T11:51:28.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qL9Ef79mnjuNOSfeB2kA" version="24.7.1" type="github">
   <diagram name="Page-1" id="RvIqTngC-kaZQEq_J-Pz">
     <mxGraphModel dx="1781" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -361,13 +361,54 @@
           <mxGeometry x="600" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-125" value="Additonal resource based on requirement, like VMware, network, linux team" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="740" y="2050" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="1950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-126" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/number-circle-four-128.png" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/number-circle-five-128.png" vertex="1" parent="1">
           <mxGeometry x="840" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128" target="hV4680YEePFWUl2BeUQq-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128" target="hV4680YEePFWUl2BeUQq-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128" target="hV4680YEePFWUl2BeUQq-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128" target="hV4680YEePFWUl2BeUQq-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="2210" as="targetPoint" />
+            <mxPoint x="380" y="2130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-128" value="Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-130" value="Today our production is stable in our legacy environment.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-131" value="99.1 % of SLA is achieved" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-133" value="Reduced Downtimes and services window 2023 we didnot had for whole year no MBCI&#39;s (20-24&amp;nbsp; service windows to 5 -6 service windows)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2190" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-135" value="30% of workloads migrated to cloud with autoscalling" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-138" value="Monitoring and Alerting improved to 90%" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-139" value="20 engineers was engaged initially slowly reduced to 10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1860" width="315" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
