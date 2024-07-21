@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T12:26:07.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1zHAv0pkMp00kQo_PkQD" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T15:44:41.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HYaabtMrggRR3MV18QEn" version="24.7.1" type="github">
   <diagram name="Page-1" id="RvIqTngC-kaZQEq_J-Pz">
     <mxGraphModel dx="1781" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
           <mxGeometry x="310" y="120" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-90" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/number-circle-three-128.png" vertex="1" parent="1">
-          <mxGeometry x="424" y="60" width="26" height="26" as="geometry" />
+          <mxGeometry x="510" y="64" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-92" target="hV4680YEePFWUl2BeUQq-93">
           <mxGeometry relative="1" as="geometry" />
@@ -367,10 +367,10 @@
           <mxGeometry x="750" y="1950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-126" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/number-circle-four-128.png" vertex="1" parent="1">
-          <mxGeometry x="590" y="90" width="30" height="30" as="geometry" />
+          <mxGeometry x="740" y="90" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/number-circle-five-128.png" vertex="1" parent="1">
-          <mxGeometry x="730" y="90" width="30" height="30" as="geometry" />
+          <mxGeometry x="770" y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128" target="hV4680YEePFWUl2BeUQq-130">
           <mxGeometry relative="1" as="geometry">
@@ -425,9 +425,6 @@
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-141" value="Result" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="800" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hV4680YEePFWUl2BeUQq-142" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/number-circle-six-128.png" vertex="1" parent="1">
-          <mxGeometry x="770" y="57" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-144" value="30% of cost is saved on cloud serices when they are not used during weekends and holidays" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="740" y="2300" width="160" height="60" as="geometry" />
