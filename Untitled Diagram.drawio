@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T11:53:28.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GJ3AzMKPgztEI269eWRv" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T12:15:58.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uftEDOv4Odiu6PnrGPd1" version="24.7.1" type="github">
   <diagram name="Page-1" id="RvIqTngC-kaZQEq_J-Pz">
     <mxGraphModel dx="1781" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hV4680YEePFWUl2BeUQq-19" value="Technical Direction" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hV4680YEePFWUl2BeUQq-19" value="Technical Direction &amp;amp; landscape" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-21" value="Microservice based solution" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -105,7 +105,7 @@
         <mxCell id="hV4680YEePFWUl2BeUQq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-26" target="hV4680YEePFWUl2BeUQq-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hV4680YEePFWUl2BeUQq-26" value="Improve Operational excellence" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="hV4680YEePFWUl2BeUQq-26" value="Improve Operational excellence by identifying pain areas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-28" value="Monitoring &amp;amp; Alerting" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -210,7 +210,7 @@
         <mxCell id="hV4680YEePFWUl2BeUQq-62" value="Innovation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hV4680YEePFWUl2BeUQq-63" value="Ansible &amp;amp; Event driven, Github" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="hV4680YEePFWUl2BeUQq-63" value="Ansible &amp;amp; Event driven, Github, Auto scalling" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="670" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-65" value="AIOPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -357,8 +357,8 @@
         <mxCell id="hV4680YEePFWUl2BeUQq-118" value="Technical solution architect&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="430" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hV4680YEePFWUl2BeUQq-121" value="Infrastructure specialist, DB,&amp;nbsp; automation engineer" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1970" width="120" height="60" as="geometry" />
+        <mxCell id="hV4680YEePFWUl2BeUQq-121" value="Infrastructure specialist, DB,&amp;nbsp; automation engineer &amp;amp; operation engineers" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1970" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-123" value="Test engineer" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="2040" width="120" height="60" as="geometry" />
@@ -392,6 +392,11 @@
             <mxPoint x="380" y="2130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-128" value="Result" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="270" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
@@ -418,6 +423,9 @@
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-142" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/number-circle-six-128.png" vertex="1" parent="1">
           <mxGeometry x="770" y="57" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-144" value="30% of cost is saved on cloud serices when they are not used during weekends and holidays" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2300" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
