@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T12:25:30.709Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6sbYAgt1_Vfqoj0qhT-y" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T12:26:07.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1zHAv0pkMp00kQo_PkQD" version="24.7.1" type="github">
   <diagram name="Page-1" id="RvIqTngC-kaZQEq_J-Pz">
     <mxGraphModel dx="1781" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -397,6 +397,11 @@
             <mxPoint x="850" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hV4680YEePFWUl2BeUQq-128" target="hV4680YEePFWUl2BeUQq-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="2210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-128" value="Result" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="270" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
@@ -426,6 +431,9 @@
         </mxCell>
         <mxCell id="hV4680YEePFWUl2BeUQq-144" value="30% of cost is saved on cloud serices when they are not used during weekends and holidays" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="740" y="2300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV4680YEePFWUl2BeUQq-146" value="Comnplaint and secured" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
