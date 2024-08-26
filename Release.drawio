@@ -74,10 +74,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PXlc1lo3_3rJiNvIe8UO-30" value="Plan for production conduct SQS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXlc1lo3_3rJiNvIe8UO-33" value="Based on functional and non-functional result approval is given." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXlc1lo3_3rJiNvIe8UO-38" value="Code is deployed again in CTEF2-EU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="230" width="120" height="30" as="geometry" />
